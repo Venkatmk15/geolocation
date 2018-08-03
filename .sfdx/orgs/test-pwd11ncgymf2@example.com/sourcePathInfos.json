@@ -1,0 +1,283 @@
+[
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533211602691,
+            "changeTime": 1533211602691,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533211602691,
+            "changeTime": 1533211602691,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533219537936,
+            "changeTime": 1533219537936,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533211602691,
+            "changeTime": 1533211602691,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533216300361,
+            "changeTime": 1533216300361,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1533219537800,
+            "changeTime": 1533219537800,
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1533219537813,
+            "changeTime": 1533219537813,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1533219537825,
+            "changeTime": 1533219537825,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1533219537837,
+            "changeTime": 1533219537837,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1533219537849,
+            "changeTime": 1533219537849,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4473,
+            "modifiedTime": 1533219537855,
+            "changeTime": 1533219537855,
+            "contentHash": "9a6f04538325a8bbf6de40b58f92e3e39e31bb5b"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4477,
+            "modifiedTime": 1533219537861,
+            "changeTime": 1533219537861,
+            "contentHash": "daf6d679fa2b6ae8d5314e8d22ccbda26c85b4b1"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17878,
+            "modifiedTime": 1533219537925,
+            "changeTime": 1533219537925,
+            "contentHash": "0d273611b5be8d59e2ce233f412cbff11e4620e8"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4813,
+            "modifiedTime": 1533219537933,
+            "changeTime": 1533219537933,
+            "contentHash": "b22364f0c3894bb819c607786a3ae0a63d800a37"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 702,
+            "modifiedTime": 1533219537937,
+            "changeTime": 1533219537937,
+            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533219537800,
+            "changeTime": 1533219537800,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533219537798,
+            "changeTime": 1533219537798,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533219537797,
+            "changeTime": 1533219537797,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533219537848,
+            "changeTime": 1533219537848,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533219537933,
+            "changeTime": 1533219537933,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SF\\Salesforce DX\\my_sfdx_project\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533219537937,
+            "changeTime": 1533219537937,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
